@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Ali 👋 
+# Hi there, I'm Ahmad Ali 👋 
 
 I am a Computer Science student and an aspiring AI / Machine Learning Engineer. I focus on building robust data preprocessing pipelines, engineering clean features, and designing end-to-end ML architectures.
 
