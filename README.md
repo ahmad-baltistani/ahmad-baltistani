@@ -1,28 +1,28 @@
-# Hi there, I'm Ahmad Ali 👋 
+# Ahmad Ali
 
-I am a Computer Science student and an aspiring AI / Machine Learning Engineer. I focus on building robust data preprocessing pipelines, engineering clean features, and designing end-to-end ML architectures.
-
----
-
-### 🚀 What I Am Up To Now
-- 🛠️ Currently mastering core Machine Learning algorithms and engineering frameworks.
-- 📉 Deeply diving into Data Preprocessing, Feature Engineering, and Dimensionality Reduction (PCA).
-- 🧬 Building a **100 Days of Machine Learning** repository to showcase real-world code implementation.
+I am a Computer Science student and an aspiring AI / Machine Learning Engineer focused on building robust data preprocessing pipelines, feature engineering, and scalable machine learning solutions.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Current Focus
+- Mastering core Machine Learning algorithms and engineering frameworks from the ground up.
+- Implementing advanced Data Preprocessing, Feature Engineering, and Dimensionality Reduction (PCA).
+- Documenting hands-on progress inside my dedicated **100 Days of Machine Learning** repository.
+
+---
+
+### Technical Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java |
 | **Data Analysis & ML** | NumPy, Pandas, Scikit-Learn |
-| **Development Environments** | Jupyter Notebook, Anaconda, VS Code |
+| **Environments** | Jupyter Notebook, Anaconda, VS Code |
 | **Version Control** | Git, GitHub |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmad-baltistani&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -30,6 +30,6 @@ I am a Computer Science student and an aspiring AI / Machine Learning Engineer. 
 
 ---
 
-### 🌐 Connect with Me
+### Contact & Professional Networks
 - **LinkedIn:** [linkedin.com/in/ahmed-ali-334001131](https://www.linkedin.com/in/ahmed-ali-334001131/)
 - **Email:** ahmadbaltistani01@gmail.com
