@@ -25,7 +25,7 @@ I am a Computer Science student and an aspiring AI / Machine Learning Engineer f
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-baltistani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=ahmad-baltistani&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
