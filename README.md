@@ -22,14 +22,6 @@ I am a Computer Science student and an aspiring AI / Machine Learning Engineer f
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=ahmad-baltistani&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### Contact & Professional Networks
 - **LinkedIn:** [linkedin.com/in/ahmed-ali-334001131](https://www.linkedin.com/in/ahmed-ali-334001131/)
 - **Email:** ahmadbaltistani01@gmail.com
