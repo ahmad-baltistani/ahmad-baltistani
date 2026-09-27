@@ -15,8 +15,8 @@ I am a Computer Science student and an aspiring AI / Machine Learning Engineer f
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java |
-| **Data Analysis & ML** | NumPy, Pandas, Scikit-Learn |
+| **Languages** | Python, Java, HTML, CSS |
+| **Data Analysis & ML** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn |
 | **Environments** | Jupyter Notebook, Anaconda, VS Code |
 | **Version Control** | Git, GitHub |
 
