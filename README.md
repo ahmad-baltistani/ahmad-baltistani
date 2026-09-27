@@ -8,6 +8,7 @@ I am a Computer Science student and an aspiring AI / Machine Learning Engineer f
 - Mastering core Machine Learning algorithms and engineering frameworks from the ground up.
 - Implementing advanced Data Preprocessing, Feature Engineering, and Dimensionality Reduction (PCA).
 - Documenting hands-on progress inside my dedicated **100 Days of Machine Learning** repository.
+- Currently building an end-to-end **House Price Prediction** project, focusing on ML engineering practices such as modular pipelines, automated testing, model persistence, and API integration.
 
 ---
 
